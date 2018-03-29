@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sunwukong-you",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.7,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "9e45f674-3080-4f57-a2df-1a4838ef5513"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "36224c45-b154-4717-a7ea-bee0037f26c8"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "56f8aefa-6a0c-4e36-9e0b-7dd5aa77fbe2"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "36be19ab-4fd3-4ee9-a92f-326afcff09cc"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

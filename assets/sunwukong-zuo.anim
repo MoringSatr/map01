@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sunwukong-zuo",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.7,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "95ec50fb-0e7e-4aa8-9faf-b377bd29f83a"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "f4d3b332-5fee-4e6a-ac60-f3a2a9eaf36b"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "95ec50fb-0e7e-4aa8-9faf-b377bd29f83a"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "bfa814cd-4527-4506-bbeb-8e0570f5347c"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

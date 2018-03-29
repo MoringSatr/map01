@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "997d5fed-10e9-4da5-bd33-5f44316c5387",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "悟空正面4": {
+      "ver": "1.0.3",
+      "uuid": "19ae5aab-bc63-465e-8eba-beca1c427077",
+      "rawTextureUuid": "997d5fed-10e9-4da5-bd33-5f44316c5387",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 44,
+      "height": 61,
+      "rawWidth": 44,
+      "rawHeight": 61,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

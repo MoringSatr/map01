@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6b820e3e-473d-4839-84b7-dc2cbfd7f039",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "原始砖块红": {
+      "ver": "1.0.3",
+      "uuid": "1e258d31-3ab2-4614-9ede-3016123ce839",
+      "rawTextureUuid": "6b820e3e-473d-4839-84b7-dc2cbfd7f039",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 42,
+      "height": 52,
+      "rawWidth": 42,
+      "rawHeight": 52,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

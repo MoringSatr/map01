@@ -1,0 +1,43 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sunwukong-qian",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.7,
+  "sample": 10,
+  "speed": 1,
+  "wrapMode": 2,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "60359162-af6e-4162-a769-d4356b0e94c7"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "dac33ca3-7711-4c55-a4e4-41e5789ebf07"
+            }
+          },
+          {
+            "frame": 0.4,
+            "value": {
+              "__uuid__": "f2869b3e-565d-4650-910c-39cf96aaa2bd"
+            }
+          },
+          {
+            "frame": 0.6,
+            "value": {
+              "__uuid__": "6f2211ce-a008-4071-9244-3d1f3bbed687"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

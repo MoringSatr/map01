@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "90baf4d7-c724-43b7-9d43-167b7440199c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "悟空后1": {
+      "ver": "1.0.3",
+      "uuid": "42eded51-44cf-4686-92b0-de7b2249b9c1",
+      "rawTextureUuid": "90baf4d7-c724-43b7-9d43-167b7440199c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 44,
+      "height": 59,
+      "rawWidth": 44,
+      "rawHeight": 59,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

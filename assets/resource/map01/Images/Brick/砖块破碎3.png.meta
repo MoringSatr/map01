@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "d511e7a0-d6e9-4297-bf9e-6efd8527274f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "砖块破碎3": {
+      "ver": "1.0.3",
+      "uuid": "ff767ead-4fb7-4fbc-8d4f-2ee31cd65499",
+      "rawTextureUuid": "d511e7a0-d6e9-4297-bf9e-6efd8527274f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 74,
+      "height": 84,
+      "rawWidth": 74,
+      "rawHeight": 84,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
